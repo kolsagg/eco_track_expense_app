@@ -1,0 +1,105 @@
+# Dart/Flutter özgü yoksayılan dosyalar
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+build/
+flutter_*.png
+linked_*.ds
+unlinked.ds
+unlinked_spec.ds
+
+# Android özgü dosyalar
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/android/key.properties
+*.jks
+
+# iOS özgü dosyalar
+**/ios/**/*.mode1v3
+**/ios/**/*.mode2v3
+**/ios/**/*.moved-aside
+**/ios/**/*.pbxuser
+**/ios/**/*.perspectivev3
+**/ios/**/*sync/
+**/ios/**/.sconsign.dblite
+**/ios/**/.tags*
+**/ios/**/.vagrant/
+**/ios/**/DerivedData/
+**/ios/**/Icon?
+**/ios/**/Pods/
+**/ios/**/.symlinks/
+**/ios/**/profile
+**/ios/**/xcuserdata
+**/ios/.generated/
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# macOS özgü dosyalar
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+**/macos/Flutter/Flutter-Debug.xcconfig
+**/macos/Flutter/Flutter-Release.xcconfig
+**/macos/Flutter/Flutter-Profile.xcconfig
+
+# Web özgü dosyalar
+lib/generated_plugin_registrant.dart
+
+# Sembolleştirilmiş çökme raporları
+app.*.symbols
+
+# Obfuscated çökme raporları
+app.*.map.json
+
+# Android Studio geçici dosyaları
+.idea/
+*.iml
+
+# VS Code'a özgü
+.vscode/
+.vs/
+
+# Coverage dosyaları
+coverage/
+*.coverage
+*.coveragexml
+
+# IntelliJ
+*.ipr
+*.iws
+.idea/
+.gradle
+
+# Flutter platformuna özgü eklentiler
+.pub-cache/
+.pub/
+
+# MacOS DSStore dosyaları
+.DS_Store
+
+# Windows thumbnailları
+Thumbs.db
+
+# Yerel yapılandırma dosyaları
+*.local
+
+# Kurulum dosyaları
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local 
