@@ -77,12 +77,12 @@ lib/
 
 1. Repoyu klonlayın
 ```bash
-git clone https://github.com/kolsagg/cursor_test.git
+git clone https://github.com/kolsagg/eco_track_expense_app.git
 ```
 
 2. Proje dizinine gidin
 ```bash
-cd cursor_test
+cd eco_track_expense_app
 ```
 
 3. Bağımlılıkları yükleyin
@@ -95,21 +95,9 @@ flutter pub get
 flutter run
 ```
 
-## 🧪 Testler
-
-Testleri çalıştırmak için:
-
-```bash
-flutter test
-```
-
-## 📝 Lisans
-
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
-
 ## 👥 İletişim
 
 Emre Kolunsag - [@kolsagg](https://github.com/kolsagg)
 
-Proje Linki: [https://github.com/kolsagg/cursor_test](https://github.com/kolsagg/cursor_test)
+Proje Linki: [https://github.com/kolsagg/eco_track_expense_app](https://github.com/kolsagg/eco_track_expense_app)
 
